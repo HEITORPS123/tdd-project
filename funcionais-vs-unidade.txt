@@ -1,0 +1,2 @@
+1- Testes de unidade sao mais simples e normalmente sao feitos em maior numero
+2- Testes de unidade sao mais rapidos de executar
